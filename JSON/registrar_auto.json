@@ -1,0 +1,47 @@
+[
+    {
+        "host": 1,
+        "datos_fabrica": {
+            "año": 2015,
+            "modelo": "Fiesta",
+            "marca": "Ford",
+            "tipo": "Sedan",
+            "motor": "1.6",
+            "cant_asientos": 5,
+            "cant_puertas": 5,
+            "transmision": "Manual"
+        },
+        "kilometraje": 60000,
+        "color": "rojo",
+        "combustible": "Diesel",
+        "car-img": {
+            "obligatorias": {
+                "front": "img://car-front.jpg",
+                "copilotSide": "img://car-copilotSide.jpg",
+                "back": "img://car-back.jpg",
+                "pilotSide": "img://car-pilotSide.jpg",
+                "interior": "img://car-interior.jpg"
+            },
+            "extras": [
+                "https://images.kavak.services/images/176697/EXTERIOR-openDoorBackCopilot-1648778694009.jpeg?d=756x434",
+                "https://images.kavak.services/images/176697/INTERIOR-spareRim-1648778778861.jpeg?d=756x434"
+            ]
+        },
+        "documentacion": {
+            "cedulaVerde":{
+                "frente": "img://cedula-frente.jpg",
+                "dorso": "img://cedula-dorso.jpg" 
+            },
+            "vtv": "img://cedula-frente.jpg",
+            "numeroChasis": "GLW39399AD33KKG",
+            "seguro":{
+                "aseguradora": "La Caja",
+                "poliza": "Todo riesgo con franquicia de $15.000",
+                "fotos": [
+                    "img://seguro-1.jpg",
+                    "img://seguro-2.jpg"
+                ]
+            }
+        }
+    }
+]

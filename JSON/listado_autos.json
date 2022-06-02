@@ -1,0 +1,64 @@
+[{
+    "id": 1,
+    "host": {
+        "nombre": "Juan",
+        "descripcion": null,
+        "reputacion": 3,
+        "viajes_hosteados": 8,
+        "fecha_registro": "15-08-2021"
+    },
+    "kilometraje": 60000,
+    "color": "#00ff00",
+    "combustible": "Diesel",
+    "datos_fabrica": {
+        "año": 2015,
+        "modelo": "Fiesta",
+        "marca": "Ford",
+        "tipo": "Sedan",
+        "motor": "1.6",
+        "cant_asientos": 5,
+        "transmision": "Manual"
+    },
+    "precios": {
+        "por_hora": 500,
+        "por_jornada": 2500,
+        "por_dia": 4000,
+        "por_semana": 20000
+    },
+    "ubicacion_inicio": {
+        "longitud": "-47",
+        "latitud": "30"
+    },
+    "ubicacion_final": {
+        "longitud": "-47,5",
+        "latitud": "30"
+    },
+    "extras": {
+        "acepta_mascotas": true,
+        "acepta_fumar": false,
+        "bluetooth": true,
+        "cant_airbags": 7,
+        "asiento_para_chicos": true,
+        "telepase": true,
+        "luces_rompenieblas": true,
+        "tiene_estereo": true,
+        "tiene_aire_acondicionado": true
+    },
+    "disponibilidad": {
+        "inicio": "26-09-2022 00:00:00",
+        "fin": "30-09-2022 16:30:00"
+    },
+    "img": {
+        "exterior": {
+            "front": "https://images.kavak.services/images/176697/EXTERIOR-front-1648778643812.jpeg?d=756x434",
+            "copilotSide": "https://images.kavak.services/images/176697/EXTERIOR-copilotSide-1648778653972.jpeg?d=756x434",
+            "back": "https://images.kavak.services/images/176697/EXTERIOR-back-1648778658781.jpeg?d=756x434",
+            "pilotSide": "https://images.kavak.services/images/176697/EXTERIOR-pilotSide-1648778663327.jpeg?d=756x434"
+        },
+        "interior": [
+            "https://images.kavak.services/images/176697/EXTERIOR-pilotDoor-1648778670174.jpeg?d=756x434",
+            "https://images.kavak.services/images/176697/EXTERIOR-openDoorBackCopilot-1648778694009.jpeg?d=756x434",
+            "https://images.kavak.services/images/176697/INTERIOR-spareRim-1648778778861.jpeg?d=756x434"
+        ]
+    }
+}]

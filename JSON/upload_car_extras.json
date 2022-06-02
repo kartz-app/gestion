@@ -1,0 +1,13 @@
+[
+    {
+        "acepta_mascotas": true,
+        "acepta_fumar": false,
+        "bluetooth": true,
+        "cant_airbags": 7,
+        "asiento_para_chicos": true,
+        "telepase": true,
+        "luces_rompenieblas": true,
+        "tiene_estereo": true,
+        "tiene_aire_acondicionado": true
+    }
+]
